@@ -1,8 +1,9 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
+import "./App.css";
 
 function App() {
-  console.log("Hello World")
+  console.log("Hello World");
+  console.log("Hello 春日");
   return (
     <div className="App">
       <header className="App-header">
